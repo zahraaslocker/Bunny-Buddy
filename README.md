@@ -1,5 +1,20 @@
 # Bunny Buddy
 
+<p align="center">
+  <img src="docs/banner.png" alt="Bunny Buddy, your little money friend" width="100%">
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Budget</b></td>
+    <td align="center"><b>Analytics</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/budget.png" width="320" alt="Budget tab with donut chart"></td>
+    <td><img src="docs/analytics.png" width="320" alt="Analytics tab"></td>
+  </tr>
+</table>
+
 Bunny Buddy is your little money friend: a cute, pastel budgeting app that combines a monthly budget planner, savings tracker and spending analytics with a built-in AI buddy named **Momi**. Plan your income, set category budgets, track recurring subscriptions, decide where your savings go and see exactly how much is left for free spending, all in colourful donut charts. Whether you're budgeting for the first time or just want a friendlier way to look at your money, Bunny Buddy keeps everything simple, visual and private on your own device.
 
 ## Screenshots
