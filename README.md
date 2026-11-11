@@ -134,7 +134,7 @@ bunny-buddy/
 
 ## Credits
 
-* Sticker artwork: *add the artist's name and licence here before publishing.*
+* Sticker artwork: PalmierPhotoEshop
 * Fonts: [Lato](https://fonts.google.com/specimen/Lato) and [Outfit](https://fonts.google.com/specimen/Outfit), both under the SIL Open Font License.
 
 ## License
