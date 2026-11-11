@@ -1,0 +1,15 @@
+{
+  "name": "bunny-buddy",
+  "version": "1.0.0",
+  "description": "A cute budgeting app with a built-in AI buddy named Momi.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package:win": "npx @electron/packager . BunnyBuddy --platform=win32 --arch=x64 --out=dist --overwrite",
+    "package:mac": "npx @electron/packager . BunnyBuddy --platform=darwin --arch=arm64,x64 --out=dist --overwrite --icon=icon.icns"
+  },
+  "devDependencies": {
+    "electron": "^33.2.0"
+  },
+  "license": "MIT"
+}
